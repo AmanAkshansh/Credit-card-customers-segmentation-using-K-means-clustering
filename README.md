@@ -1,12 +1,13 @@
 # Credit-card-customers-segmentation-using-K-means-clustering
 This project requires segmentation of Active credit card holders of a credit card company to define their marketing strategy.
 
+# Dataset
 The sample dataset(CC GENERAL) summarizes the usage behavior of about 9000 active credit card holders during the last 6 months. The file is at a customer level with 18 behavioral variables. 
 
-# BUSINESS CONTEXT
+# Business problem:
 The objective of this project is to develope a customer segmentation to define marketing strategy.
 
-# TECHINIQUES USED:-
+# Techniques used:-
 
 1. Advanced data preparation: Built an ‘enriched’ customer profile by deriving “intelligent” KPIs
   such as:
